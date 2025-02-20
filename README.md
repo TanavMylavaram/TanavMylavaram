@@ -2,6 +2,7 @@
 <h2>👨‍💻 Projects:</h2>
 
   - [Command Line Contacts Manager](https://github.com/TanavMylavaram/ContactsManager)
+  - [Predictions/Future Planner Web App]()
 
 <h2> 🤳 Connect with me:</h2>
 
