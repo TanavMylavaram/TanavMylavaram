@@ -6,7 +6,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="TanavMylavaram | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-linkedin-social-media-logo-computer-icons-clip-art-5578014%2F&psig=AOvVaw15PcHnabJxyWZLpQbjhC9E&ust=1740175149224000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCD8uOf04sDFQAAAAAdAAAAABAE)" />][linkedin]
+[<img align="left" alt="TanavMylavaram | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/tanavmylavaram
 
