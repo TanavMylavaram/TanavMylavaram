@@ -2,6 +2,7 @@
 <h2>👨‍💻 Projects:</h2>
 
   - [Active Directory Lab](https://github.com/)
+  - [Command Line Contacts Manager](https://github.com/TanavMylavaram/ContactsManager)
 
 <h2> 🤳 Connect with me:</h2>
 
