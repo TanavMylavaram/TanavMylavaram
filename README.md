@@ -4,7 +4,7 @@ I'm a Computer Engineering student at SJSU, passionate about programming, softwa
 
 # 👨‍💻 Projects:
 <!--- <a href="next-wave-app.com" target="_blank">NextWave - WebApp</a>-->
-- [NextWave](next-wave-app.com)
+- [NextWave - WebApp](next-wave-app.com)
 - [Command Line Contacts Manager](https://github.com/TanavMylavaram/ContactsManager)
 
 
