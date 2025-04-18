@@ -3,6 +3,7 @@
 I'm a Computer Engineering student at SJSU, passionate about programming, software development and building fun/innovative projects. I enjoy exploring new technologies, optimizing algorithms, and continuously expanding my skill set.<br>Currently, I'm deep-diving into advanced algorithm design in C++, focusing on performance optimization and problem-solving techniques, while also working on improving my full-stack development skills.  
 
 # 👨‍💻 Projects:
+- <a href="https://mindful-evolutions-therapy-3uqe.vercel.app" target="_blank">Mindful Evolutions Therapy</a>
 - <a href="https://next-wave-app.com" target="_blank">NextWave - WebApp</a>
 - [Command Line Contacts Manager](https://github.com/TanavMylavaram/ContactsManager)
 
